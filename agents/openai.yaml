@@ -1,0 +1,4 @@
+interface:
+  display_name: "PPT Generate 学术PPT"
+  short_description: "四页代表性风格预览后快速生成可编辑中英文学术汇报PPT"
+  default_prompt: "使用 $ppt-generate 根据我上传的文献、源PPT和参考图，先用四个代表页生成四套风格预览，再按选定风格快速输出可编辑学术PPT。"

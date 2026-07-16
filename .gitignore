@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+workflow_state.json
+selected-preview-pages.json
+selected-style-spec.txt
+content-spec.txt
+*-manifest.json
+*.pptx
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.webp
